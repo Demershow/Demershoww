@@ -1,4 +1,4 @@
-HELLO! I'm Demerson Guilherme, and i'm at my last year at the Middle School
+HELLO! I'm Demerson Guilherme, and i'm at my last year at the High School
 <br>
 <br>
 <div align="center">
